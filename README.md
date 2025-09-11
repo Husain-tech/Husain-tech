@@ -1,5 +1,5 @@
 # 💫 Hi there, I'm Husain AlHafez 👋
-🎓 I’m a Software Engineering student at SDU Odense (Denmark).<br>💻 I enjoy building mobile apps, desktop apps, and web applications.<br>🛠️ My main tech stack includes: HTML, CSS, JavaScript, React, React Native, C#, and PostgreSQL.<br>
+🎓 I’m a Software Engineering student at SDU Odense (Denmark).<br>💻 I enjoy building mobile apps, desktop apps, and web applications.<br>🛠️ My main tech stack includes: HTML, CSS, JavaScript, C#, and PostgreSQL.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husain-alhafez-43942822a/)
